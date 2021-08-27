@@ -1,1 +1,2 @@
-# GymRegimen_SWIFT
+# Structured Gym Regimen using Swift
+In this project, I experimented with functions, instnaces, methods, and dot syntax to create a workout routine for a client. Using Swift, I created a structure which stored the exercise name, what muscle group it targeted, number of reps, number of sets, and total reps for the workout. The second sturcutre created was the tracking method which outputs the day of the week, what exercise to do on a given day, and a method which reminds the client of the given day's regimen. Project was done in Codecademy. 
